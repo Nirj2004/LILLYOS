@@ -1,6 +1,12 @@
 # cyberWatch
 
 Simple OS for [LILYGO® T-WATCH-2020 V3](http://www.lilygo.cn/prod_view.aspx?TypeId=50053&Id=1380&FId=t3:50053:3), based on [ Xinyuan-LilyGO /TTGO_TWatch_Library](https://github.com/Nirj2004/LILLYOS).
+![image](https://user-images.githubusercontent.com/75828293/174482821-676c48b1-91d0-4821-9754-003b250828a3.png)
+![image](https://user-images.githubusercontent.com/75828293/174482836-8f081b32-b852-4836-af13-c64367f2aed1.png)
+![image](https://user-images.githubusercontent.com/75828293/174482848-ce740263-da9c-4444-8fb7-733a0f5c9172.png)
+![image](https://user-images.githubusercontent.com/75828293/174482860-88f56390-10c3-4b06-b42e-e5cb0c2710d3.png)
+![image](https://user-images.githubusercontent.com/75828293/174482881-7ddbfd81-e4a6-41c5-b38c-fb4bf0c255fa.png)
+
 
 Free time project to create lightweight and simple OS for smartwatch, with only necessary small functionality (to keep it simple and effective). With strong DIY cyberpunk motivation (don't want to support and pay money to big corporations). And with cool 80' cyberpunk retro design!
 
